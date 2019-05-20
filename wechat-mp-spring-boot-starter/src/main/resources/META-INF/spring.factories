@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.yokefellow.wechat.mp.autoconfigure.WeChatMpAutoConfiguration

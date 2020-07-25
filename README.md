@@ -11,7 +11,7 @@
 >
 > [Druid Spring Boot Starter](https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter)
 >
-> [FastJson](https://github.com/alibaba/fastjson/wiki/Quick-Start-CN)
+> [Fastjson](https://github.com/alibaba/fastjson/wiki/Quick-Start-CN)
 
 ### Blog
 
